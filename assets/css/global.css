@@ -1,0 +1,43 @@
+.container {
+    width: 1170px;
+    margin: 0px auto;
+    /* display: flex; */
+    justify-content: space-between;
+    background-color: rgb(131, 131, 131);
+    min-height: 400px;
+    display: block;
+    margin-top: 60px;
+}
+
+.header{
+
+}
+
+.content {
+
+}
+
+.footer{}
+
+.display-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.list-style-none {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.box-head p {
+    display: inline-block;
+    background: #23282d;
+    color: #eeeeee;
+    padding: 3px 19px;
+    margin-bottom: 0px;
+}
+
+.text-decoration-none {
+    text-decoration: none;
+}
